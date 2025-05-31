@@ -1,0 +1,31 @@
+*{
+    font-family:  Verdana, "DejaVu Sans", "sans-serif"
+}
+
+.class1, 
+.class2,
+.class3{
+    background-color: rgb(207, 81, 81);
+    color:black;
+}
+
+.class1,
+.class2{
+font-size: 20px;
+
+}
+.class2{
+    font-size: 40px;
+}
+
+#id1{
+    color: blue;
+    font-size: 50px;
+    font-weight: 500;
+
+}
+#id2{
+    font-weight: bold;
+    background-color: chartreuse;
+    font-size: 25px;
+}
